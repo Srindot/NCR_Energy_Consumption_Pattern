@@ -1,14 +1,9 @@
+# Use this simple script on your newly cleaned file
 import pandas as pd
 
-# 1. Define your file names
-excel_file_path = 'your_input_file.xlsx'
-csv_file_path = 'your_output_file.csv'
+# Make sure this points to your new, cleaned file
+df = pd.read_excel('Data/EST_Project_5min_Dataset.xlsx')
 
-# 2. Read the Excel file into a pandas DataFrame
-df = pd.read_excel(excel_file_path)
+df.to_csv('Data/data.csv', index=False)
 
-# 3. Convert and save the DataFrame to a CSV file
-# The index=False argument is important to avoid writing row numbers into your CSV
-df.to_csv(csv_file_path, index=False)
-
-print(f"✅ Successfully converted '{excel_file_path}' to '{csv_file_path}'")
+print("✅ Conversion successful!")
