@@ -1,0 +1,214 @@
+2 channel Terms of Service accepted
+Channels:
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | done
+Solving environment: - \ | done
+
+## Package Plan ##
+
+  environment location: /home/sriney/miniconda3/envs/est_proj
+
+  added / updated specs:
+    - nbformat
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    attrs-25.4.0               |     pyh71513ae_0          59 KB  conda-forge
+    ca-certificates-2025.10.5  |       hbd8a1cb_0         152 KB  conda-forge
+    jsonschema-4.25.1          |     pyhe01879c_0          80 KB  conda-forge
+    jsonschema-specifications-2025.9.1|     pyhcf101f3_0          19 KB  conda-forge
+    nbformat-5.10.4            |     pyhd8ed1ab_1          99 KB  conda-forge
+    python-fastjsonschema-2.21.2|     pyhe01879c_0         239 KB  conda-forge
+    referencing-0.36.2         |     pyh29332c3_0          50 KB  conda-forge
+    rpds-py-0.22.3             |  py312h4aa5aa6_0         371 KB
+    ------------------------------------------------------------
+                                           Total:         1.0 MB
+
+The following NEW packages will be INSTALLED:
+
+  attrs              conda-forge/noarch::attrs-25.4.0-pyh71513ae_0 
+  jsonschema         conda-forge/noarch::jsonschema-4.25.1-pyhe01879c_0 
+  jsonschema-specif~ conda-forge/noarch::jsonschema-specifications-2025.9.1-pyhcf101f3_0 
+  nbformat           conda-forge/noarch::nbformat-5.10.4-pyhd8ed1ab_1 
+  python-fastjsonsc~ conda-forge/noarch::python-fastjsonschema-2.21.2-pyhe01879c_0 
+  referencing        conda-forge/noarch::referencing-0.36.2-pyh29332c3_0 
+  rpds-py            pkgs/main/linux-64::rpds-py-0.22.3-py312h4aa5aa6_0 
+  typing_extensions  conda-forge/noarch::typing_extensions-4.15.0-pyhcf101f3_0 
+
+The following packages will be UPDATED:
+
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2~ --> conda-forge/noarch::ca-certificates-2025.10.5-hbd8a1cb_0 
+
+
+
+Downloading and Extracting Packages: ...working...rpds-py-0.22.3       | 371 KB    |            |   0% 
+python-fastjsonschem | 239 KB    |            |   0% [A
+
+ca-certificates-2025 | 152 KB    |            |   0% [A[A
+
+
+nbformat-5.10.4      | 99 KB     |            |   0% [A[A[A
+
+
+
+jsonschema-4.25.1    | 80 KB     |            |   0% [A[A[A[A
+
+
+
+
+attrs-25.4.0         | 59 KB     |            |   0% [A[A[A[A[A
+
+
+
+
+
+referencing-0.36.2   | 50 KB     |            |   0% [A[A[A[A[A[A
+
+
+
+
+
+
+jsonschema-specifica | 19 KB     |            |   0% [A[A[A[A[A[A[A
+
+ca-certificates-2025 | 152 KB    | #          |  11% [A[A
+
+
+
+jsonschema-4.25.1    | 80 KB     | ##         |  20% [A[A[A[A
+
+
+nbformat-5.10.4      | 99 KB     | #6         |  16% [A[A[A
+
+
+
+jsonschema-4.25.1    | 80 KB     | ########## | 100% [A[A[A[A
+
+
+nbformat-5.10.4      | 99 KB     | ########## | 100% [A[A[Arpds-py-0.22.3       | 371 KB    | 4          |   4% 
+
+
+
+jsonschema-4.25.1    | 80 KB     | ########## | 100% [A[A[A[A
+
+
+
+jsonschema-4.25.1    | 80 KB     | ########## | 100% [A[A[A[A
+
+
+nbformat-5.10.4      | 99 KB     | ########## | 100% [A[A[A
+
+
+nbformat-5.10.4      | 99 KB     | ########## | 100% [A[A[A
+
+
+
+
+
+referencing-0.36.2   | 50 KB     | ###1       |  32% [A[A[A[A[A[A
+
+
+
+
+attrs-25.4.0         | 59 KB     | ##7        |  27% [A[A[A[A[Arpds-py-0.22.3       | 371 KB    | ######8    |  69% rpds-py-0.22.3       | 371 KB    | ########## | 100% rpds-py-0.22.3       | 371 KB    | ########## | 100% 
+
+ca-certificates-2025 | 152 KB    | ###1       |  32% [A[A
+python-fastjsonschem | 239 KB    | 6          |   7% [A
+
+
+
+
+attrs-25.4.0         | 59 KB     | ########1  |  82% [A[A[A[A[A
+
+
+
+
+attrs-25.4.0         | 59 KB     | ########## | 100% [A[A[A[A[A
+
+
+
+
+attrs-25.4.0         | 59 KB     | ########## | 100% [A[A[A[A[A
+
+ca-certificates-2025 | 152 KB    | ########## | 100% [A[A
+
+ca-certificates-2025 | 152 KB    | ########## | 100% [A[A
+
+
+
+
+
+
+jsonschema-specifica | 19 KB     | ########5  |  85% [A[A[A[A[A[A[A
+
+
+
+
+
+
+jsonschema-specifica | 19 KB     | ########## | 100% [A[A[A[A[A[A[A
+
+
+
+
+
+
+jsonschema-specifica | 19 KB     | ########## | 100% [A[A[A[A[A[A[A
+
+
+
+
+
+referencing-0.36.2   | 50 KB     | #########5 |  95% [A[A[A[A[A[A
+
+
+
+
+
+referencing-0.36.2   | 50 KB     | ########## | 100% [A[A[A[A[A[A
+python-fastjsonschem | 239 KB    | ######6    |  67% [A
+python-fastjsonschem | 239 KB    | ########## | 100% [A
+python-fastjsonschem | 239 KB    | ########## | 100% [A
+python-fastjsonschem | 239 KB    | ########## | 100% [A
+
+
+
+
+
+referencing-0.36.2   | 50 KB     | ########## | 100% [A[A[A[A[A[A                                                     
+                                                     [A
+
+                                                     [A[A
+
+
+                                                     [A[A[A
+
+
+
+                                                     [A[A[A[A
+
+
+
+
+                                                     [A[A[A[A[A
+
+
+
+
+
+                                                     [A[A[A[A[A[A
+
+
+
+
+
+
+                                                     [A[A[A[A[A[A[A done
+Preparing transaction: - done
+Verifying transaction: | / - \ | done
+Executing transaction: - \ | / - \ | / - \ | / - \ | / - \ | / - \ | done
