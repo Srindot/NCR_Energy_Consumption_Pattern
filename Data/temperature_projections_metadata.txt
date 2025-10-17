@@ -1,0 +1,39 @@
+Temperature Projections for Delhi NCR (2025-2044)
+============================================================
+
+METHODOLOGY
+------------------------------------------------------------
+Baseline Year: 2024
+Baseline Temperature: 25.5°C
+Projection Period: 2025 to 2044
+
+SCENARIOS
+------------------------------------------------------------
+
+Conservative (SSP1-2.6)
+  Rate: +0.4°C per decade
+  Description: Low emissions scenario with strong climate action
+  Source: IPCC AR6 SSP1-2.6 scenario for South Asia
+
+Moderate (SSP2-4.5)
+  Rate: +0.6°C per decade
+  Description: Middle-of-the-road scenario with moderate emissions reduction
+  Source: IPCC AR6 SSP2-4.5 scenario for South Asia
+
+High (SSP5-8.5)
+  Rate: +1.0°C per decade
+  Description: High emissions scenario with limited climate action
+  Source: IPCC AR6 SSP5-8.5 scenario for South Asia
+
+
+CITATION
+------------------------------------------------------------
+Temperature projections based on:
+- IPCC (2021). Climate Change 2021: The Physical Science Basis.
+  Sixth Assessment Report, Working Group I. Chapter 12: South Asia.
+- India Meteorological Department (IMD). Climate Scenarios for India.
+- Ministry of Earth Sciences (2020). Assessment of Climate Change
+  over the Indian Region.
+
+Note: Projections include small random variations (±0.1°C) to
+represent natural climate variability.
